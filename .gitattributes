@@ -1,2 +1,56 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="landing page">
+<title> Palestine Page</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Pacifico&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="gojo.css">
+<body>
+<div class="page-wrapper">
+    <header>
+    <div class="container">
+        <nav>
+            <h1 id="Gaza">Gaza.by</h1>
+            <ul>
+                <li><a href= "#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+
+        </nav>
+    </div>
+</header>
+<section class="intro">
+    <div class="container">
+        <h2 id="title">CEASEFIRE<span>NOW</span></h2>
+        <p>From the river to the sea, Palestine will be free.</p>
+        <button>Help now</button>
+    </div>
+
+</section>
+</div>
+<section class="first">
+<div id="about">
+    <h1> What is a cease fire ?</h1>
+    <p> noun
+        a cessation of hostilities; truce.</p>
+    
+</div>
+
+</section>
+
+</body>
+
+
+
+
+
+
+
+
+
+</head>
