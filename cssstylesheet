@@ -1,0 +1,98 @@
+
+html{
+    font-size: 14px;
+    height: 100%;
+}
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.page-wrapper{
+    height: 100%;
+    background-color:#151d20;
+background-image: url(imgojo/bgpal.png);
+background-repeat: no-repeat;
+background-size:auto;
+
+header{
+    padding: 0;
+    nav{
+        display:flex;
+justify-content: space-between;
+        #Gaza{
+            font-family: 'Pacifico', cursive;
+            color: rgb(21, 11, 11);
+            font-size: 2rem;
+
+            }
+    ul{
+list-style-type: none;
+display:flex;
+align-items: center;
+       li{ 
+        padding: 0 2rem;
+
+        a{
+            font-weight: 500;
+            color: rgb(226, 48, 48);
+            text-decoration: none;
+                                           }
+
+                                    }
+
+                             }
+                        }
+                }
+                section.intro{
+                    padding-top: 6rem;
+                    #title{
+                        font-size: 3rem;
+                        color: rgb(21, 16, 16);
+                        font-weight: 400;
+                        span{
+                            font-size: 6rem;
+                            color:rgb(228, 49, 43);
+                            font-weight: 800;
+                            display:block;
+
+                        }
+                }
+                p{
+                    width: 400px;
+                    color:rgb(185, 184, 184)
+                }
+                button{
+                    background-color: rgb(20,153,84);
+                    padding: 1rem 3rem;
+                    border-radius: 2rem;
+                    font-size: 1.3rem;
+                    border: 0;
+                    margin-top: 2.5rem;
+                }
+}
+}
+
+.container{
+    width: auto;
+    margin: 0 300px;
+}
+
+@media screen and (max-width: 1260px)
+{
+    .container{
+        margin: 0 200px;
+    }
+}
+
+.first{
+    background-color: #151d20;
+    margin-top: auto;
+    height:100%;
+    width: 100%;
+    
+
+}
